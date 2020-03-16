@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9288c717-0863-4d6d-bfb4-427b5efebb48" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZClEPVkLGDYRpCL9wtx23JoUbJ" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.nopcommerce" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\sapan\IdeaProjects\NopecommerceUsingSouceLabs\src\test" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.TestSuite.verifyAddToCartButtonIsPresentOnAllFeaturedProducts">
+    <configuration name="TestSuite.userShouldAbleToAddNewCommentOnNopCommerceWebsite" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="NopecommerceUsingSouceLabs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nopcommerce.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="com.nopcommerce" />
+      <option name="MAIN_CLASS_NAME" value="com.nopcommerce.TestSuite" />
+      <option name="METHOD_NAME" value="userShouldAbleToAddNewCommentOnNopCommerceWebsite" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-ea -Dbrowser=chrome -DSauce=true" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSuite.userShouldAbleToChangeCurrency" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="NopecommerceUsingSouceLabs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nopcommerce.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="com.nopcommerce" />
+      <option name="MAIN_CLASS_NAME" value="com.nopcommerce.TestSuite" />
+      <option name="METHOD_NAME" value="userShouldAbleToChangeCurrency" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-ea -Dbrowser=chrome -DSauce=true" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSuite.verifyAddToCartButtonIsPresentOnAllFeaturedProducts" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="NopecommerceUsingSouceLabs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nopcommerce.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="com.nopcommerce" />
+      <option name="MAIN_CLASS_NAME" value="com.nopcommerce.TestSuite" />
+      <option name="METHOD_NAME" value="verifyAddToCartButtonIsPresentOnAllFeaturedProducts" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-ea -Dbrowser=chrome -DSauce=true" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSuite.verifyAddToCartButtonIsPresentOnAllFeaturedProducts" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="NopecommerceUsingSouceLabs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nopcommerce.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="com.nopcommerce" />
+      <option name="MAIN_CLASS_NAME" value="com.nopcommerce.TestSuite" />
+      <option name="METHOD_NAME" value="verifyAddToCartButtonIsPresentOnAllFeaturedProducts" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-ea -Dbrowser=chrome -DSauce=true" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSuite.verifyGuestUserShouldAbleToCheckoutSuccessfully" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="NopecommerceUsingSouceLabs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nopcommerce.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="com.nopcommerce" />
+      <option name="MAIN_CLASS_NAME" value="com.nopcommerce.TestSuite" />
+      <option name="METHOD_NAME" value="verifyGuestUserShouldAbleToCheckoutSuccessfully" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-ea -Dbrowser=chrome -DSauce=true" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSuite.verifyGuestUserShouldAbleToCheckoutSuccessfully" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="NopecommerceUsingSouceLabs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nopcommerce.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="com.nopcommerce" />
+      <option name="MAIN_CLASS_NAME" value="com.nopcommerce.TestSuite" />
+      <option name="METHOD_NAME" value="verifyGuestUserShouldAbleToCheckoutSuccessfully" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-ea -Dbrowser=chrome -DSauce=true" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="TestNG.TestSuite.verifyGuestUserShouldAbleToCheckoutSuccessfully" />
+      <item itemvalue="TestNG.TestSuite.userShouldAbleToAddNewCommentOnNopCommerceWebsite" />
+      <item itemvalue="TestNG.TestSuite.userShouldAbleToChangeCurrency" />
+      <item itemvalue="TestNG.TestSuite.verifyAddToCartButtonIsPresentOnAllFeaturedProducts" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.TestSuite.verifyAddToCartButtonIsPresentOnAllFeaturedProducts" />
+        <item itemvalue="TestNG.TestSuite.verifyAddToCartButtonIsPresentOnAllFeaturedProducts" />
+        <item itemvalue="TestNG.TestSuite.userShouldAbleToChangeCurrency" />
+        <item itemvalue="TestNG.TestSuite.userShouldAbleToAddNewCommentOnNopCommerceWebsite" />
+        <item itemvalue="TestNG.TestSuite.verifyGuestUserShouldAbleToCheckoutSuccessfully" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9288c717-0863-4d6d-bfb4-427b5efebb48" name="Default Changelist" comment="" />
+      <created>1584350844740</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584350844740</updated>
+    </task>
+    <servers />
+  </component>
+</project>
