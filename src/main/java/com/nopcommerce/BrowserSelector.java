@@ -137,7 +137,7 @@ public class BrowserSelector extends BasePage {
 
             }
 
-            // To opeen firefox browser
+            // To open firefox browser
             else if (browser.equalsIgnoreCase("firefox")) {
                 System.setProperty("webdriver.gecko.driver", "src\\test\\Resources\\BrowserDrivers\\geckodriver.exe");
                 driver = new FirefoxDriver();

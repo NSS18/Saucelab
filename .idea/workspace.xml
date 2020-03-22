@@ -1,12 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9288c717-0863-4d6d-bfb4-427b5efebb48" name="Default Changelist" comment="" />
+    <list default="true" id="9288c717-0863-4d6d-bfb4-427b5efebb48" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nopcommerce/BookPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/nopcommerce/BookPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nopcommerce/BrowserSelector.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/nopcommerce/BrowserSelector.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/nopcommerce/TestSuite.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/nopcommerce/TestSuite.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/nopcommerce/BookPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/nopcommerce/BookPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/nopcommerce/TestSuite.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/nopcommerce/TestSuite.class" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -16,6 +27,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1ZClEPVkLGDYRpCL9wtx23JoUbJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test" />
   </component>
@@ -39,7 +51,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.TestSuite.verifyAddToCartButtonIsPresentOnAllFeaturedProducts">
+  <component name="RunManager" selected="TestNG.TestSuite.userShouldAbleToChangeCurrency">
     <configuration name="TestSuite.userShouldAbleToAddNewCommentOnNopCommerceWebsite" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="NopecommerceUsingSouceLabs" />
       <extension name="coverage">
@@ -81,7 +93,7 @@
       <option name="METHOD_NAME" value="userShouldAbleToChangeCurrency" />
       <option name="GROUP_NAME" value="" />
       <option name="TEST_OBJECT" value="METHOD" />
-      <option name="VM_PARAMETERS" value="-ea -Dbrowser=chrome -DSauce=true" />
+      <option name="VM_PARAMETERS" value="-ea -Dbrowser=firefox -DSauce=false" />
       <option name="PARAMETERS" value="" />
       <option name="OUTPUT_DIRECTORY" value="" />
       <option name="TEST_SEARCH_SCOPE">
@@ -162,7 +174,7 @@
       <option name="METHOD_NAME" value="verifyGuestUserShouldAbleToCheckoutSuccessfully" />
       <option name="GROUP_NAME" value="" />
       <option name="TEST_OBJECT" value="METHOD" />
-      <option name="VM_PARAMETERS" value="-ea -Dbrowser=chrome -DSauce=true" />
+      <option name="VM_PARAMETERS" value="-ea -Dbrowser=chrome -DSauce=false" />
       <option name="PARAMETERS" value="" />
       <option name="OUTPUT_DIRECTORY" value="" />
       <option name="TEST_SEARCH_SCOPE">
@@ -210,11 +222,11 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.TestSuite.verifyAddToCartButtonIsPresentOnAllFeaturedProducts" />
-        <item itemvalue="TestNG.TestSuite.verifyAddToCartButtonIsPresentOnAllFeaturedProducts" />
         <item itemvalue="TestNG.TestSuite.userShouldAbleToChangeCurrency" />
-        <item itemvalue="TestNG.TestSuite.userShouldAbleToAddNewCommentOnNopCommerceWebsite" />
         <item itemvalue="TestNG.TestSuite.verifyGuestUserShouldAbleToCheckoutSuccessfully" />
+        <item itemvalue="TestNG.TestSuite.verifyAddToCartButtonIsPresentOnAllFeaturedProducts" />
+        <item itemvalue="TestNG.TestSuite.verifyAddToCartButtonIsPresentOnAllFeaturedProducts" />
+        <item itemvalue="TestNG.TestSuite.userShouldAbleToAddNewCommentOnNopCommerceWebsite" />
       </list>
     </recent_temporary>
   </component>
@@ -230,5 +242,18 @@
       <updated>1584350844740</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

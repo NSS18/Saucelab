@@ -1,0 +1,12 @@
+com\nopcommerce\BasePage.class
+com\nopcommerce\LoadProp.class
+com\nopcommerce\FillCheckoutDetails.class
+com\nopcommerce\NewOnlineStoreIsOpenPage.class
+com\nopcommerce\Utils.class
+com\nopcommerce\BrowserSelector.class
+com\nopcommerce\BookPage.class
+com\nopcommerce\NewsPage.class
+com\nopcommerce\CheckoutResult.class
+com\nopcommerce\CartPage.class
+com\nopcommerce\CheckoutAsGuest.class
+com\nopcommerce\HomePage.class

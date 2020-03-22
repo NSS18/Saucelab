@@ -24,7 +24,7 @@ public class TestSuite extends BaseTest {
 
 
  //1)Guest user should be able to checkout successfully
-    @Test
+   // @Test
     public void verifyGuestUserShouldAbleToCheckoutSuccessfully()
     {
         //Click on book link
@@ -53,7 +53,7 @@ public class TestSuite extends BaseTest {
 
     //2)Guest user should able to add new comment on nope commerce website
 
-    @Test
+   // @Test
     public void userShouldAbleToAddNewCommentOnNopCommerceWebsite()
     {
         //To click on view news archive
@@ -92,7 +92,7 @@ public class TestSuite extends BaseTest {
 
 //4)Verify add to cart button is present on all featured product
 
-    @Test
+   // @Test
     public void verifyAddToCartButtonIsPresentOnAllFeaturedProducts()
     {
      //To verify add to cart is present in all featured products

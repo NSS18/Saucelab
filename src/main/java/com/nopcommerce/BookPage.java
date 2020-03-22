@@ -18,7 +18,7 @@ public class BookPage extends Utils {
     //click on shopping cart
     public void clickOnShoppingCart()
     {
-        timeDelay(1);
+        timeDelay(2);
         scrollAndClick(_clickOnShoppingCart);
     }
 }
